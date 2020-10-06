@@ -1,0 +1,30 @@
+Campo,Tipo,Tratamento
+IBGE_RES_POP_ESTR_PERC,Taxa ou índice,Substituição pela mediana
+IBGE_DU_RATE,Taxa ou índice,Substituição pela mediana
+IBGE_DU_RURAL_PERC,Taxa ou índice,Substituição pela mediana
+IBGE_POP_UP_PERC,Taxa ou índice,Substituição pela mediana
+IDHM Ranking 2010,Taxa ou índice,Substituição pela mediana
+IDHM,Taxa ou índice,Substituição pela mediana
+IDHM_Renda,Taxa ou índice,Substituição pela mediana
+IDHM_Longevidade,Taxa ou índice,Substituição pela mediana
+IDHM_Educacao,Taxa ou índice,Substituição pela mediana
+CARS_RATE,Taxa ou índice,Substituição pela mediana
+MOTORCYCLES_RATE,Taxa ou índice,Substituição pela mediana
+POST_OFFICES_RATE,Taxa ou índice,Substituição pela mediana
+IBGE_POP_10+_2010,Taxa ou índice,Substituição pela mediana
+GINI_INDEX_2000,Taxa ou índice,Substituição pela mediana
+GINI_INDEX_2010,Taxa ou índice,Substituição pela mediana
+ILLITERACY_RATE_10+_2010,Taxa ou índice,Substituição pela mediana
+UNEMPLOYMENT_RATE_10+_2010,Taxa ou índice,Substituição pela mediana
+IBGE_0-14_PERC,Percentual composto,Substituição pela média
+IBGE_15-59_PERC,Percentual composto,Substituição pela média
+IBGE_60+_PERC,Percentual composto,Substituição pela média
+IBGE_EDU_0_PERC,Percentual composto,Substituição pela média
+IBGE_EDU_1_PERC,Percentual composto,Substituição pela média
+IBGE_EDU_2_PERC,Percentual composto,Substituição pela média
+IBGE_EDU_3_PERC,Percentual composto,Substituição pela média
+IBGE_EDU_NA_PERC,Percentual composto,Substituição pela média
+LONG,Geográfica,Substituição pela média (UF e REGIAO_TUR)
+LAT,Geográfica,Substituição pela média (UF e REGIAO_TUR)
+ALT,Geográfica,Substituição pela média (UF e REGIAO_TUR)
+MUN_EXPENDIT,Valor absoluto,Regressão linear
