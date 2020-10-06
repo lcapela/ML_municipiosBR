@@ -3,7 +3,7 @@
 
 Monografia de conclusão do curso de pós-graduação Business Intelligence Master, oferecido pelo Laboratório de Inteligência Computacional Aplicada (ICA) da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Nota: 10/10
 
-Autor: Leandro de Oliveira Capela
+Autor: Leandro de Oliveira Capela  
 Orientadora: Manoela Rabello Kohler
 
 ### Tabela de conteúdo
